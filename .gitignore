@@ -1,0 +1,4 @@
+#Ignore WebStorm specyfic files
+.idea
+*.iml
+project-metadate/

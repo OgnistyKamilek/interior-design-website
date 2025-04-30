@@ -7,8 +7,8 @@ window.addEventListener("scroll", function () {
     header.classList.toggle("sticky", isSticky);
 
     if (isSticky) {
-        logo.src = "Logos/logo-white.png";
+        logo.src = "logos/logo-white.png";
     } else {
-        logo.src = "Logos/Logo-black.png";
+        logo.src = "logos/Logo-black.png";
     }
 });
